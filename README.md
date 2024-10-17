@@ -7,7 +7,7 @@
   <img src="./packages/lit/logo.svg" alt="Lit" width="300" height="141">
 </picture>
 
-### Simple. Fast. Web Components....d
+### Simple. Fast. Web Components....dd
 
 [![Build Status](https://github.com/lit/lit/actions/workflows/tests.yml/badge.svg)](https://github.com/lit/lit/actions/workflows/tests.yml)
 [![Published on npm](https://img.shields.io/npm/v/lit.svg?logo=npm)](https://www.npmjs.com/package/lit)
